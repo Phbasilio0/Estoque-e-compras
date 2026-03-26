@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "aFCs6b+F5sM909SsSLgVaAj4UY0kBsklzGuZSN1UpQA=",
+  "Source": "ApiEstoqueRoupas",
+  "BasePath": "_content/ApiEstoqueRoupas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ApiEstoqueRoupas\\wwwroot",
+      "Source": "ApiEstoqueRoupas",
+      "ContentRoot": "C:\\Users\\PEDROHENRIQUEBASILIO\\Prova_A1_PedroBasilio_MatheusBueno\\ApiEstoqueRoupas\\wwwroot\\",
+      "BasePath": "_content/ApiEstoqueRoupas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\PEDROHENRIQUEBASILIO\\Prova_A1_PedroBasilio_MatheusBueno\\ApiEstoqueRoupas\\wwwroot\\index.html",
+      "SourceId": "ApiEstoqueRoupas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PEDROHENRIQUEBASILIO\\Prova_A1_PedroBasilio_MatheusBueno\\ApiEstoqueRoupas\\wwwroot\\",
+      "BasePath": "_content/ApiEstoqueRoupas",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\PEDROHENRIQUEBASILIO\\Prova_A1_PedroBasilio_MatheusBueno\\ApiEstoqueRoupas\\wwwroot\\script.js",
+      "SourceId": "ApiEstoqueRoupas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PEDROHENRIQUEBASILIO\\Prova_A1_PedroBasilio_MatheusBueno\\ApiEstoqueRoupas\\wwwroot\\",
+      "BasePath": "_content/ApiEstoqueRoupas",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\PEDROHENRIQUEBASILIO\\Prova_A1_PedroBasilio_MatheusBueno\\ApiEstoqueRoupas\\wwwroot\\style.css",
+      "SourceId": "ApiEstoqueRoupas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\PEDROHENRIQUEBASILIO\\Prova_A1_PedroBasilio_MatheusBueno\\ApiEstoqueRoupas\\wwwroot\\",
+      "BasePath": "_content/ApiEstoqueRoupas",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
